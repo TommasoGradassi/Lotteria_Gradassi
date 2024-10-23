@@ -41,5 +41,7 @@
 ### Lotteria
         la classe lotteria è il nostro 'main' , ha il compito di avviare il gioco ed una volta concluso
         di fermalrlo. principalmente istanzia oggetti come i 4 giocatori , ed anche l'estrazione.
-        - utilizza vari comandi come **.join** :  dice al programma di aspettare che il thread che  finisca il suo  lavoro prima di proseguire.
-        - **catch (InterruptedException ex)** : Se si verifica un errore, viene registrato nel log come un problema serio, usando il logger. 
+        - utilizza vari comandi come **.join** :  dice al programma di aspettare che il thread,
+         che  finisca il suo  lavoro prima di proseguire.
+        - **catch (InterruptedException ex)** : Se si verifica un errore, 
+        viene registrato nel log come un problema serio, usando il logger. 
