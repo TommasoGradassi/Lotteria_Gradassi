@@ -16,7 +16,7 @@
 ## Principali classi utilizzate:
 
 ### Estrazione:
-    Questa classe gestisce l'estrazione dei numeri. Estende la classe `Thread`.
+    Questa classe gestisce l'estrazione dei numeri, Estende la classe `Thread`.
    
    - **Metodi Principali:**
      - **run()**: Popola la matrice con numeri casuali e avvia l'estrazione.
